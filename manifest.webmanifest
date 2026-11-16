@@ -1,0 +1,15 @@
+{
+  "name": "Sous Couverture",
+  "short_name": "Sous Couverture",
+  "description": "Jeu de mots et de bluff à jouer à plusieurs sur un seul téléphone.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D0F2E",
+  "theme_color": "#0D0F2E",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
