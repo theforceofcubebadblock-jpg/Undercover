@@ -26,8 +26,9 @@ python3 -m http.server 8000
 # puis ouvrez http://localhost:8000
 ```
 
-Pour l'installer sur téléphone, hébergez le dossier en HTTPS (GitHub Pages par exemple) puis
-« Ajouter à l'écran d'accueil ».
+Le workflow `.github/workflows/pages.yml` publie le jeu sur GitHub Pages à chaque push sur `main`
+(réglage unique : Settings > Pages > Source > GitHub Actions). Ouvrez ensuite l'adresse sur téléphone puis
+« Ajouter à l'écran d'accueil » pour l'installer.
 
 ## Tests
 
